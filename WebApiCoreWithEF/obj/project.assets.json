@@ -3323,11 +3323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AYAZ HASSAN\\source\\repos\\WebApiCoreWithEF\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
+      "projectUniqueName": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
       "projectName": "WebApiCoreWithEF",
-      "projectPath": "C:\\Users\\AYAZ HASSAN\\source\\repos\\WebApiCoreWithEF\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
+      "projectPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
       "packagesPath": "C:\\Users\\AYAZ HASSAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AYAZ HASSAN\\source\\repos\\WebApiCoreWithEF\\WebApiCoreWithEF\\obj\\",
+      "outputPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AYAZ HASSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

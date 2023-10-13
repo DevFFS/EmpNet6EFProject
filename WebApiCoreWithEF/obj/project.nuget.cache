@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2FZb3Eg/UiUMX32eUr9FOZSaUkOdTP532FjpWPqNK+FcddMya14v5lGV9v5fnRdpvqQdTSkT4rIwcLg2YZgwQ==",
+  "dgSpecHash": "JWmDBRMrCI+ELiIPee8c5LVE/vmJj6FT1jLQ35EUMDdoPCciv0lHIK2CQlpXRKjAN3n6f444QQkudnuJAHNoUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AYAZ HASSAN\\source\\repos\\WebApiCoreWithEF\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
+  "projectFilePath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AYAZ HASSAN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\AYAZ HASSAN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

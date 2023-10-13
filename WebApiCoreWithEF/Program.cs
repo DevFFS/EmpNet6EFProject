@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Runtime.CompilerServices;
 using WebApiCoreWithEF;
 using WebApiCoreWithEF.Context;
+using WebApiCoreWithEF.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<CompanyContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("CompanyConnStr")));
+builder.Services.AddTransient<ICompanyRepository,CompanyRepository>();
+
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
