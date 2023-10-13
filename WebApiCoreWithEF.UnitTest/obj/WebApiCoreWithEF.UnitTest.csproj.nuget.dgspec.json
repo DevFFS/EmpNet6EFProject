@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF.UnitTest\\WebApiCoreWithEF.UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF.UnitTest\\WebApiCoreWithEF.UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF.UnitTest\\WebApiCoreWithEF.UnitTest.csproj",
+        "projectName": "WebApiCoreWithEF.UnitTest",
+        "projectPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF.UnitTest\\WebApiCoreWithEF.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\AYAZ HASSAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AYAZ HASSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj": {
+                "projectPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
+        "projectName": "WebApiCoreWithEF",
+        "projectPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\WebApiCoreWithEF.csproj",
+        "packagesPath": "C:\\Users\\AYAZ HASSAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AYAZ HASSAN\\Downloads\\farheen codes\\EmpNet6EFProject\\WebApiCoreWithEF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AYAZ HASSAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
